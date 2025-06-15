@@ -1,0 +1,17 @@
+/* src/styles/App.css */
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f2f5; /* Một màu nền nhẹ nhàng */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Đảm bảo scroll mượt mà khi click vào link */
+html {
+  scroll-behavior: smooth;
+}

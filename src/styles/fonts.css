@@ -1,0 +1,10 @@
+/* src/styles/fonts.css */
+@font-face {
+  font-family: 'Comic Sans MS'; /* Tên font bạn muốn dùng */
+  src: url('../assets/fonts/ComicSansMS.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Nếu bạn muốn dùng Google Fonts thì bỏ đoạn này vào index.html hoặc App.js */
+/* @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap'); */
