@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/doraemon-website/static/css/main.84b8fa35.css",
-    "main.js": "/doraemon-website/static/js/main.5c02175e.js",
+    "main.js": "/doraemon-website/static/js/main.184bc9fc.js",
     "static/media/Sketch.mp3": "/doraemon-website/static/media/Sketch.c9d448ba86838085d5db.mp3",
     "static/media/NoiTaThuocVe.mp3": "/doraemon-website/static/media/NoiTaThuocVe.85b56f73ba6ca9111c0a.mp3",
     "static/media/Paradise.mp3": "/doraemon-website/static/media/Paradise.adddeb4f2da7ea27b6c8.mp3",
@@ -10,15 +10,17 @@
     "static/media/nobita.png": "/doraemon-website/static/media/nobita.f3bdb9d1ab5c87a55881.png",
     "static/media/shizuka.png": "/doraemon-website/static/media/shizuka.3bcba7601fd4bf6603d0.png",
     "static/media/ComicSansMS.ttf": "/doraemon-website/static/media/ComicSansMS.2be4a49a17700938dbc0.ttf",
+    "static/media/lebron_main.jpg": "/doraemon-website/static/media/lebron_main.2191c626e99a625ae7f2.jpg",
     "static/media/suneo.png": "/doraemon-website/static/media/suneo.029675043c56ccf499d7.png",
     "static/media/jaian.png": "/doraemon-website/static/media/jaian.2077bd3931402370b3c8.png",
+    "static/media/lebron_small.png": "/doraemon-website/static/media/lebron_small.e6d9e89521ce11048750.png",
     "static/media/doraemon.png": "/doraemon-website/static/media/doraemon.3a31cb9eb022a31cde57.png",
     "index.html": "/doraemon-website/index.html",
     "main.84b8fa35.css.map": "/doraemon-website/static/css/main.84b8fa35.css.map",
-    "main.5c02175e.js.map": "/doraemon-website/static/js/main.5c02175e.js.map"
+    "main.184bc9fc.js.map": "/doraemon-website/static/js/main.184bc9fc.js.map"
   },
   "entrypoints": [
     "static/css/main.84b8fa35.css",
-    "static/js/main.5c02175e.js"
+    "static/js/main.184bc9fc.js"
   ]
 }
